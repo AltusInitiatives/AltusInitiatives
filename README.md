@@ -19,5 +19,5 @@ Python · FastAPI · LangChain · OpenAI API · Claude API · Make.com · n8n ·
 Phase 1 → Phase 2: Prompt Engineering · Make.com · n8n · OpenAI & Claude APIs
 
 ## 📫 Contact
-LinkedIn: 
-Email: hello@altusinitiatives.com
+- LinkedIn: 
+- Email: hello@altusinitiatives.com
