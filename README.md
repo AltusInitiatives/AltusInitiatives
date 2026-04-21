@@ -1,4 +1,4 @@
-# Shine | Training to be an AI Automation Specialist
+# Shine | AI Automation Specialist in Training
 
 I help businesses eliminate manual processes by building AI-powered 
 automations that connect the tools they already use to intelligent workflows.
